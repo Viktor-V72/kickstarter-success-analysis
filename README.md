@@ -1,2 +1,2 @@
 # kickstarter-success-analysis
-Power BI dashboard analisys / Kickstarter projects
+Power BI dashboard analysis / Kickstarter projects
